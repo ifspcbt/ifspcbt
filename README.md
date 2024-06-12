@@ -29,6 +29,6 @@ Para mantermos uma organização eficiente, solicitamos que sigam a seguinte est
 
 ## Contato
 
-Caso tenha dúvidas, sugestões ou precise de assistência, entre em contato com a diretoria do grêmio de informática pelo e-mail: [ifspcbt.informatica@gmail.com]
+Caso tenha dúvidas, sugestões ou precise de assistência, entre em contato com a diretoria do grêmio de informática pelo e-mail: ifspcbt.informatica@gmail.com
 
 Agradecemos a todos pela colaboração e esperamos que este espaço se torne uma valiosa ferramenta de aprendizado e desenvolvimento para todos os alunos do curso de Informática do IFSP Cubatão.
