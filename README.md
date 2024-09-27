@@ -6,6 +6,12 @@ Bem-vindo ao perfil oficial do IFSP Cubatão - Informática!
 
 Este perfil foi criado pela diretoria do grêmio de informática do IFSP Cubatão com o objetivo de centralizar os repositórios dos alunos e materiais de conhecimento. Nosso intuito é oferecer uma plataforma colaborativa e acessível para que os alunos possam compartilhar seus projetos, acessar recursos educativos e colaborar com a comunidade acadêmica.
 
+### Administradores
+
+- [Perfil IFSPCBT](https://github.com/ifspcbt)
+- [Diretor de Informática](https://github.com/oproprioleonardo)
+- [Vice-diretor de Informática](https://github.com/gustavofg1pontes)
+
 ## Nossos Objetivos
 
 - **Centralização de Repositórios**: Facilitar o acesso e a organização dos projetos desenvolvidos pelos alunos.
