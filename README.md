@@ -2,8 +2,6 @@
 
 Bem-vindo ao perfil oficial do IFSP Cubatão - Informática!
 
-### Discord: [Buteco da DevSpace](https://discord.gg/z8ycnAztUj)
-
 ## Sobre Nós
 
 Este perfil foi criado pela diretoria do grêmio de informática do IFSP Cubatão com o objetivo de centralizar os repositórios dos alunos e materiais de conhecimento. Nosso intuito é oferecer uma plataforma colaborativa e acessível para que os alunos possam compartilhar seus projetos, acessar recursos educativos e colaborar com a comunidade acadêmica.
