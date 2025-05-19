@@ -9,8 +9,9 @@ Este perfil foi criado pela diretoria do grêmio de informática do IFSP Cubatã
 ### Administradores
 
 - [Perfil IFSPCBT](https://github.com/ifspcbt)
-- [Diretor de Informática](https://github.com/oproprioleonardo)
-- [Vice-diretor de Informática](https://github.com/gustavofg1pontes)
+- [Daniel](https://github.com/DanielArthurFrei)
+- [Leonardo](https://github.com/oleonardosilva)
+- [Gustavo](https://github.com/gustavofg1pontes)
 
 ## Nossos Objetivos
 
